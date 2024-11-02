@@ -2,6 +2,7 @@
 ##Pre-requests
 1. Do GWAS using GEMMA - otherwise need to adjust some inputs (p_value col no. etc...)
 2. Get LD data using plink (plink --blocks...), get .det
+
 ##Ready for processing
 1. Extract Significant SNPs, loop over all traits
 2. Read in LD block files (.det)
